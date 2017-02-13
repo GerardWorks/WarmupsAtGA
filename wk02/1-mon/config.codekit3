@@ -4,7 +4,7 @@
 	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
-		"uuidString": "DC2A99BD-C926-48DD-84C3-F908C9F1D0AF"
+		"uuidString": "6A5ACA90-5E98-42C8-B47C-756CFA013AC3"
 		}
 	],
 "creatorBuild": "25504",
@@ -21,20 +21,20 @@
 		"oAP": "\/index.html",
 		"oF": 0
 		},
-	"\/warmup3-min.js": {
+	"\/minigolf-min.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/warmup3-min-min.js",
+		"oAP": "\/minigolf-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/warmup3.js": {
+	"\/minigolf.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/warmup3-min.js",
+		"oAP": "\/minigolf-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -45,10 +45,10 @@
 "manualImportLinks": {
 	},
 "projectAttributes": {
-	"creationDate": 508197793,
-	"displayValue": "3-wed",
+	"creationDate": 508630009,
+	"displayValue": "1-mon",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-ceiling"
+	"iconImageName": "brackets_brown"
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,

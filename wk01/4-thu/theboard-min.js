@@ -1,0 +1,1 @@
+for(var symbol="#",lengthColumns=3,numberRows=6,board="",i=1;i<=numberRows;i++){var columns="";if(i%2==0)for(var num=0;num<lengthColumns;num++)columns+=columns.concat(symbol+" ");else for(var num=0;num<lengthColumns;num++)columns+=columns.concat(" "+symbol);board+=columns+"\n"}console.log(board);

@@ -17,8 +17,17 @@ var thatArray = ["Facebook Platform","Erlang Enthusiasts","Ex-Girlfriends",
 "Surgeons","Pounding Jagger Bombs","Textbooks","Coffee Shops","Baristas"];
 
 // var combinedArray = thisArray.concat(thatArray);
-
+function selection(){
 var randomize1 = thisArray[Math.floor(Math.random() * thisArray.length)];
 var randomize2 = thatArray[Math.floor(Math.random() * thatArray.length)];
 
-alert("The selections of startup ideas are " + randomize1 + " and " + randomize2);
+document.getElementById("here").textContent=randomize1+randomize2;
+}
+
+document.getElementById("button").onclick(function(){
+  selection();
+});
+
+
+
+//alert("The selections of startup ideas are " + randomize1 + " and " + randomize2);
