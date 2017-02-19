@@ -1,4 +1,4 @@
-var word = "a ABSDBt ..tuba";
+var word = prompt("enter in a sentence");
 word= word.toLowerCase();
 
 

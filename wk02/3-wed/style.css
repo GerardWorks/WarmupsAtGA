@@ -1,0 +1,18 @@
+body{
+  font-family: Verdana, sans-serif;
+}
+img{
+  width: 200px;
+  height: auto;
+}
+li{
+  list-style: none;
+  line-height: 40px;
+}
+ul li:first-child{
+  font-weight: bold;
+  font-size: 30px;
+}
+.wrapper{
+  text-align: center;
+}

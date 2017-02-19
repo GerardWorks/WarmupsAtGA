@@ -4,7 +4,7 @@
 	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
-		"uuidString": "98B0EB09-A6CD-4759-8DCC-2A7153C47BBC"
+		"uuidString": "5D1DD009-E833-4D26-B3DC-89737671F741"
 		}
 	],
 "creatorBuild": "25504",
@@ -15,29 +15,49 @@
 		"oAP": "\/.keep",
 		"oF": 0
 		},
-	"\/index.html": {
+	"\/decider-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/decider-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/decider.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/index.html",
+		"oAP": "\/decider.html",
 		"oF": 0
 		},
-	"\/palindrome-min.js": {
+	"\/decider.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/palindrome-min-min.js",
+		"oAP": "\/decider-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/palindrome.js": {
-		"ft": 64,
-		"mi": 1,
+	"\/style-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
 		"oA": 0,
-		"oAP": "\/palindrome-min.js",
+		"oAP": "\/style-min-min.css",
 		"oF": 0,
-		"sC": 1,
-		"tS": 0
+		"oS": 0
+		},
+	"\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/style-min.css",
+		"oF": 0,
+		"oS": 0
 		}
 	},
 "hooks": [
@@ -45,10 +65,10 @@
 "manualImportLinks": {
 	},
 "projectAttributes": {
-	"creationDate": 508716608,
-	"displayValue": "2-tue",
+	"creationDate": 508802845,
+	"displayValue": "3-wed",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-angryPicard"
+	"iconImageName": "meme-wonka"
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,

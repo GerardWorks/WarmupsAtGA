@@ -4,7 +4,7 @@
 	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
-		"uuidString": "98B0EB09-A6CD-4759-8DCC-2A7153C47BBC"
+		"uuidString": "5EDB5CE0-DB9C-46E2-8323-793FDE3A766E"
 		}
 	],
 "creatorBuild": "25504",
@@ -15,29 +15,39 @@
 		"oAP": "\/.keep",
 		"oF": 0
 		},
+	"\/fakemap-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/fakemap-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/fakemap.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/fakemap-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/index.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/index.html",
 		"oF": 0
 		},
-	"\/palindrome-min.js": {
-		"ft": 64,
-		"mi": 1,
+	"\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
 		"oA": 0,
-		"oAP": "\/palindrome-min-min.js",
+		"oAP": "\/style-min.css",
 		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/palindrome.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/palindrome-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
+		"oS": 0
 		}
 	},
 "hooks": [
@@ -45,10 +55,10 @@
 "manualImportLinks": {
 	},
 "projectAttributes": {
-	"creationDate": 508716608,
-	"displayValue": "2-tue",
+	"creationDate": 508890038,
+	"displayValue": "4-thu",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-angryPicard"
+	"iconImageName": "meme-ceiling"
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
