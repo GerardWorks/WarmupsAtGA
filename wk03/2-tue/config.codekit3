@@ -4,7 +4,7 @@
 	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
-		"uuidString": "760B4913-42AF-4BBE-9042-D1B82AD1C9E6"
+		"uuidString": "88514749-86FB-4DCB-89FA-878EE741DAEB"
 		}
 	],
 "creatorBuild": "25568",
@@ -15,20 +15,20 @@
 		"oAP": "\/.keep",
 		"oF": 0
 		},
-	"\/grannytalk-min.js": {
+	"\/code-min.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/grannytalk-min-min.js",
+		"oAP": "\/code-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/grannytalk.js": {
+	"\/code.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/grannytalk-min.js",
+		"oAP": "\/code-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -45,10 +45,10 @@
 "manualImportLinks": {
 	},
 "projectAttributes": {
-	"creationDate": 508370507,
-	"displayValue": "5-fri",
+	"creationDate": 509321203,
+	"displayValue": "2-tue",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-archer"
+	"iconImageName": "meme-greg"
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,

@@ -1,0 +1,1 @@
+var stringA="xyaabbbccccdefww",stringB="xxxxyyyyabklmopq",combineString=function(n,t){var c=n.split(""),i=t.split(""),o=c.concat(i),r=o.filter(function(n,t){return o.indexOf(n)===t});r.sort(),console.log(r)};
