@@ -1,0 +1,52 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" href="css/font-awesome.css">
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <h1>Accordian App</h1>
+    <i class="fa fa-database" aria-hidden="true"></i>
+    Database
+    <i class="fa fa-code" aria-hidden="true"></i>
+    Coding
+    <i class="fa fa-mobile" aria-hidden="true"></i>
+    Mobile
+    <i class="fa fa-globe" aria-hidden="true"></i>
+    Globe
+    <i class="fa fa-angle-up" aria-hidden="true"></i>
+
+    <div id="app">
+
+    </div>
+
+    <script type="sjkdavknawklvnalw" id="accordian-template">
+        <h2 id="{{ title }}">
+          <span><i class="{{ icon }}" aria-hidden="true"></i></span>
+          {{ title }}
+          <span><i class="fa fa-angle-up" aria-hidden="true"></i></span>
+        </h2>
+        <ul class="hidden">
+          <li>
+            {{first}}
+          </li>
+          <li>
+            {{second}}
+          </li>
+          <li>
+            {{third}}
+          </li>
+          <li>
+            {{fourth}}
+          </li>
+        </ul>
+    </script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.6/handlebars.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.5.2/underscore-min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/backbone.js/1.0.0/backbone-min.js"></script>
+    <script type="text/javascript" src="app.js"></script>
+  </body>
+</html>
